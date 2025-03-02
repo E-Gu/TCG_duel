@@ -1,0 +1,12 @@
+# Игнорируем временные файлы Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+Packages/
+
+# Игнорируем файлы ОС
+.DS_Store
